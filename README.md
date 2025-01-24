@@ -1,16 +1,13 @@
-## Hi there 👋
+# My Work 😄
 
-<!--
-**Bunkfer/Bunkfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+I have created these scripts for learning purposes and to automate certain tasks. Most of these scripts were designed as projects during my master's program, but feel free to use them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## List of Scripts:
+
+1. [SOLID](https://github.com/Bunkfer/SOLID) - Solid methodology.
+
+<hr>
+
+\_**Note**: The content in this repository belongs to my authorship.
